@@ -26,7 +26,6 @@
             </div>
         </div>
 
-        {{-- Kanan: Tombol Edit --}}
         <div class="md:w-1/3 flex items-center justify-center">
             <a href=""
                 class="bg-emerald-600 hover:bg-emerald-700 text-white font-semibold px-6 py-3 rounded-lg shadow-md transition duration-300">
